@@ -1,16 +1,9 @@
 # courses_app_ui
 
-A new Flutter project.
+Onlearn App:
+Hey, reader welcome to my new flutter project.
+In this project I have made a clean UI for an online learning app
+Also, you will se the use of "HERO" widget
+Also cutsom made APPBAR will please your eyes.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note: It is just an UI (i.e. FrontEnd Only)
